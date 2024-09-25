@@ -9,7 +9,7 @@ Initially started by Neil Chue Hong, Carol Willing and Tracy Teal, we started a 
 
 - [About](about.md) Why do we need these supportive organizations? How are we thinking about identifying needs?
 - [Needs by category](sponsor-needs-category.md)
-- [Needs by type of organization](sponsor-needs-project.md)
+- [Needs by type of project](sponsor-needs-project.md)
 
 ### Contributing
 
