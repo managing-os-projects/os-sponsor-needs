@@ -13,7 +13,7 @@ Initially started by Neil Chue Hong, Carol Willing and Tracy Teal, we started a 
 
 ### Contributing
 
-The goal is to hear from all kinds of different projects and people, to incorporate into a set of ideas and guidance for fiscal sponsor support. We encourage and appreciate [dicussion](https://github.com/managing-os-projects/os-fiscal-sponsor-needs/discussions), additions to the lists, and [non-public feedback form](https://forms.gle/tCc8HBDPXEmvMwve9). 
+The goal is to hear from all kinds of different projects and people, to incorporate into a set of ideas and guidance for fiscal sponsor support. We encourage and appreciate [discussion](https://github.com/managing-os-projects/os-fiscal-sponsor-needs/discussions), additions to the lists, and [non-public feedback form](https://forms.gle/tCc8HBDPXEmvMwve9). 
 
 See more in our [contributing guide](contributing.md).
 
