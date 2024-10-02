@@ -20,5 +20,5 @@ Initially started by Neil Chue Hong, Carol Willing and Tracy Teal, we started a 
 
 It's important this represent the perspective of a wide variety of projects and people, so ideas, discussion and feedback are key. What's not in this list that you think your project needs? What do you think needs more discussion? 
 
-Please create an issue to share ideas, start a discussion or comment on what we've started here. We can go further together.
+Please create an issue to share ideas, start a discussion or comment on what we've started here. See how to contribute in our [contributing guide](contributing.md). We can go further together.
 
