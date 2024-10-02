@@ -1,6 +1,6 @@
-# Open Source Fiscal Sponsor Needs by Category
+# Open Source Sponsor Needs by Category
 
-There are different types of support that projects need. This list outlines those items by category. See [fiscal sponsor needs by type of project](sponsor-needs-project.md) for them organized by type of organization. 
+There are different types of support that projects need. This list outlines those items by category. See [sponsor needs by type of project](sponsor-needs-project.md) for them organized by type of organization. 
 
 It's important this represent the perspective of a wide variety of projects and people, so ideas, discussion and feedback are key. What's not in this list that you think your project needs? What do you think needs more discussion? 
 
