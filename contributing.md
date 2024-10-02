@@ -1,4 +1,4 @@
-# Contributing: Open Source Fiscal Sponsor Needs
+# Contributing: Open Source Sponsor Needs
 
 It's important this represent the perspective of a wide variety of projects and people, so ideas, discussion and feedback are key. What's not in this list that you think your project needs? What do you think needs more discussion? 
 
