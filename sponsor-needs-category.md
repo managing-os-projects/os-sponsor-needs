@@ -4,7 +4,7 @@ There are different types of support that projects need. This list outlines thos
 
 It's important this represent the perspective of a wide variety of projects and people, so ideas, discussion and feedback are key. What's not in this list that you think your project needs? What do you think needs more discussion? 
 
-Please contribute to this list and join the discussion. 
+Please [contribute to this list and join the discussion](contributing.md). 
 
 ## Project sponsor needs
 
