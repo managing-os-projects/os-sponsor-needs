@@ -6,9 +6,9 @@ Please contribute to this list and join the discussion.
 
 Ways to contribute to this project or join the discussion. 
 
-- [Join the discussion](https://github.com/managing-os-projects/os-fiscal-sponsor-needs/discussions) Join the github discussion on this topic. [Code of Conduct](CODE_OF_CONDUCT.md) policy applies. 
-- **Contribute to the lists** Put in a pull request, file an issue, or comment on the documents in github to add to or adjust items in the lists. 
-- [Share comments via an anonymous survey](https://forms.gle/tCc8HBDPXEmvMwve9) There may be things you want to share not in a public forum that should be considered on this topic. Please share ideas or feedback via the anonymous Google form. 
+- **[Join the discussion](https://github.com/managing-os-projects/os-fiscal-sponsor-needs/discussions)**. Join the github discussion on this topic. [Code of Conduct](CODE_OF_CONDUCT.md) policy applies. 
+- **Contribute to the lists.** Put in a pull request, file an issue, or comment on the documents in github to add to or adjust items in the lists. 
+- **[Share comments via an anonymous survey.](https://forms.gle/tCc8HBDPXEmvMwve9)** There may be things you want to share not in a public forum that should be considered on this topic. Please share ideas or feedback via the anonymous Google form. 
 
 
 
