@@ -21,9 +21,20 @@ or feedback.
 
 DRAFT - Needs work 
 
-As the open source space continues to evolve, we have the opportunity to bring together ideas on what types of support projects need
-from sponsoring organizations. A project-led perspective on these needs would help open source projects and sponsoring organizations
+What operational support your open source project needs to make your life easier, so you can focus on the project and not the paperwork?
+
+Neil Chue Hong, Tracy Teal and Carol Willing are doing a community consultation to understand what services are needed from supporting organizations. This will become a reference for projects 
+when thinking about their operational needs at different stages, and as guidance for supporting organization to identify the services 
+they can provide. A project-led perspective on these needs will help open source projects and sponsoring organizations
 have a shared approach to identifying and understanding needs and for sponsoring organziations to know what to provide, so each project
-and organization doesn't need to navigate these things on their own. Neil Chue Hong, Carol Willing and Tracy Teal drafted a set of ideas 
-to start a project-led list of sponsoring project needs. This is an opportunity to bring together ideas across different projects. Please
-contribute your thoughts and ideas to the dicussion, or list, or fill out the anonymous survey. 
+and organization doesn't need to navigate these things on their own.
+
+We want to hear from all types of people and projects! Join the [discussion](https://github.com/managing-os-projects/os-fiscal-sponsor-needs/discussions) or share comments in an [anonymous survey](https://forms.gle/tCc8HBDPXEmvMwve9), and contribute to the [conversation](https://github.com/managing-os-projects/os-sponsor-needs/blob/main/contributing.md).
+
+See more about the [OS Sponsor Needs project](https://github.com/managing-os-projects/os-sponsor-needs).
+
+
+
+
+
+
