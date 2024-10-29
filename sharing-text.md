@@ -19,8 +19,6 @@ or feedback.
 
 ### In a newsletter or announcement
 
-DRAFT - Needs work 
-
 What operational support does your open source project need to make your life easier, so you can focus on the project and not the paperwork?
 
 Neil Chue Hong, Tracy Teal and Carol Willing are doing a community consultation to understand what services are needed from supporting organizations. This will become a reference for projects 
