@@ -1,6 +1,6 @@
 # Open Source Sponsor Needs
 
-As an open source project grows, selecting a sponsor organization that can meet the projects' additional needs is essential. Open source projects and the open source sponsor space is evolving, as sponsors shut down, re-orient or start new. Open source funding and support has become even more important to consider thoughtfully as the funding and reuse landscape for open source has changed with the emergence of AI and shifting priorities for technology companies. 
+As an open source project grows, selecting a sponsor organization that can meet the projects' additional operational needs is essential. Open source projects and the open source sponsor space is evolving, as sponsors shut down, re-orient or start new. Open source funding and support has become even more important to consider thoughtfully as the funding and reuse landscape for open source has changed with the emergence of AI and shifting priorities for technology companies. 
 
 ### What do we mean by 'open source sponsor'?
 
